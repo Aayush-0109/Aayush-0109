@@ -4,7 +4,7 @@
 ### Full-stack Developer | Problem Solver | Tech Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aayush--0109-black?logo=github&style=flat-square)](https://github.com/Aayush-0109)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aayushsharma-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/aayush-sharma-439092319)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aayushsharma-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/aayush-sharma-439092319)
 [![Email](https://img.shields.io/badge/Email-aayushsharma2647b@gmail.com-red?logo=gmail&style=flat-square)](mailto:aayushsharma2647b@gmail.com)
 
 </div>
