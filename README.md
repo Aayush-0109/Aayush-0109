@@ -27,7 +27,7 @@ _Chitkara University, Himachal Pradesh, Solan_
 _Aug 2023 – Present_
 
 ---
-
+   
 ## 🛠️ Tech Toolbox
 
 ![Languages](https://img.shields.io/badge/C/C++-00599C?logo=c&logoColor=white&style=flat-square) 
