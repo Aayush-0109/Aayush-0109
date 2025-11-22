@@ -1,115 +1,42 @@
-<div align="center">
+# Aayush Sharma
 
-# 👋 Hi, I'm Aayush Sharma!
-### Full-stack Developer | Problem Solver | Tech Enthusiast
-
-[![GitHub](https://img.shields.io/badge/GitHub-Aayush--0109-black?logo=github&style=flat-square)](https://github.com/Aayush-0109)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aayushsharma-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/aayush-sharma-439092319)
-[![Email](https://img.shields.io/badge/Email-aayushsharma2647b@gmail.com-red?logo=gmail&style=flat-square)](mailto:aayushsharma2647b@gmail.com)
-
-</div>
+**Full-stack Developer | Backend Engineering**
 
 ---
 
-## 🚀 About Me
+### Overview
 
-- 💻 Full-stack developer passionate about building scalable & performant web apps.
-- 🔍 Backend optimization, caching, and real-time infra specialist.
-- 🏗️ Proficient in data structures, algorithms, and software engineering best practices.
-- 🎯 Focused on user-centric interfaces with modern frameworks and cloud tools.
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering in Computer Science and Engineering**  
-_Chitkara University, Himachal Pradesh, Solan_  
-_Aug 2023 – Present_
-
----
-   
-## 🛠️ Tech Toolbox
-
-![Languages](https://img.shields.io/badge/C/C++-00599C?logo=c&logoColor=white&style=flat-square) 
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?logo=html5&logoColor=white&style=flat-square)
-
-**Frameworks & Libraries:**  
-React.js | Node.js | Express.js | Next.js | Tailwind CSS | Bootstrap | Leaflet.js | Redux Toolkit | Ant Design
-
-**Databases & ORM:**  
-PostgreSQL (Prisma) | MongoDB (Mongoose)
-
-**Caching & Real-Time:**  
-Redis | Socket.io | WebSockets
-
-**Dev Tools:**  
-Git | VS Code | Docker | Postman | MongoDB Compass | Nodemailer
+- Focused on building reliable web applications and backend systems for practical, modern requirements.
+- Adept in real-time integrations, scalable data workflows, and API design.
+- Quick to pick up new technologies—my strength lies in learning fast, not pretending to know it all.
+- Committed to clean code and continually improving how things are built.
 
 ---
 
-## 🌟 Achievements
+### Core Skills
 
-- 🏆 **Fourth Place - HackExpo Cybersecurity Competition (Dec 2024)**
-  - 4th out of 50 teams at Chitkara University.
-  - Scored 890 points solving 10+ cybersecurity challenges under time crunch.
-  - Hands-on teamwork with real-world security tools.
-
----
-
-## 🧩 Featured Projects
-
-### 🚩 [EventSphere](https://github.com/Aayush-0109/EventSphere)  
-_ExpressJS, ReactJS, NodeJS, TypeScript, PostgreSQL (Prisma), Redis, Socket.io, Docker_  
-**[🌐 Live Demo](https://eventsphere4u.vercel.app/)**
-
-> Discover and host events with live maps, geospatial search, and instant notifications.
-
-- 📍 Location-based event hosting via Redis Geo & interactive maps (1–50km radius).
-- ⚡ API response cut from 800ms to <50ms with Redis caching.
-- 📊 Real-time infra for 500+ users (Socket.io & Redis Pub/Sub).
-- 🛡️ Role-based rate limiting (50–500 requests/15min) to block brute-force & guarantee stability.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
-### 🩺 [ChooseLyf](https://github.com/Aayush-0109/ChooseLyf)
-_React.js, Redux Toolkit, Node.js, Express.js, MongoDB, Leaflet.js, Ant Design_
+### Achievements
 
-- Healthcare appointment system (25+ endpoints).
-- Doctor discovery via MongoDB geospatial queries & Leaflet maps (40% faster).
-- Timely notifications & dashboards for appointments.
-
-### 🏡 [Dream Nest](https://github.com/Aayush-0109/DreamNest)
-_MongoDB, Node.js, Express.js, React_
-
-- Real estate platform for property listings & inquiries.
-- Optimized queries (-40% response time).
-- Real-time property updates & notifications.
+- **LeetCode:** 350+ problems solved, 100+ day streak.
+- **HackExpo Cybersecurity:** 4th place out of 50 teams.
 
 ---
 
-## 📊 GitHub Stats
+### Contact
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayush-0109&show_icons=true&theme=react" alt="Aayush's GitHub Stats" />
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-- 📧 [Email](mailto:aayushsharma2647b@gmail.com)
-- 🌐 [My GitHub](https://github.com/Aayush-0109)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aayushsharma/)
-
----
-
-<div align="center">
-  
-> _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?logo=linkedin&logoColor=white)](https://linkedin.com/aayush-sharma)
+[![GitHub](https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white)](https://github.com/Aayush-0109)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:aayushsharma2647b@gmail.com)
