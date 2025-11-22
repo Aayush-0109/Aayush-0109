@@ -38,5 +38,5 @@
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?logo=linkedin&logoColor=white)](https://linkedin.com/aayush-sharma)
-[![GitHub](https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white)](https://github.com/Aayush-0109)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/T9uLdZ4aV9)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:aayushsharma2647b@gmail.com)
